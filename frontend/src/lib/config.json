@@ -1,10 +1,10 @@
 {
-    "appId": 694825177,
-    "assets": [694816505, 694816506, 694816507],
+    "appId": 82677804,
+    "assets": [82674810, 82674811, 82676669],
     "ipfsGateway":"https://ipfs.io/ipfs/",
     "algod": {
-        "network":"MainNet",
-        "host": "https://mainnet-api.algonode.cloud",
+        "network":"TestNet",
+        "host": "https://testnet-api.algonode.cloud",
         "token": "",
         "port": ""
     }
